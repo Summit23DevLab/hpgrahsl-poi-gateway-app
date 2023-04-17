@@ -8,14 +8,14 @@ metadata:
     backstage.io/kubernetes-namespace: hpgrahsl-dev
     backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance=hpgrahsl-dev-poi-gateway-app-dev'
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: backstage-2w7cf/hpgrahsl-poi-gateway-app
+    github.com/project-slug: Summit23DevLab/hpgrahsl-poi-gateway-app
   tags:
     - java
     - quarkus
     - maven
     - workshop
   links:
-    - url: https://devspaces.apps.summit23.0x74.p1.openshiftapps.com/#https://github.com/backstage-2w7cf/hpgrahsl-poi-gateway-app?che-editor=che-incubator/che-code/latest&devfilePath=.devfile-vscode.yaml
+    - url: https://devspaces.apps.summit23.0x74.p1.openshiftapps.com/#https://github.com/Summit23DevLab/hpgrahsl-poi-gateway-app?che-editor=che-incubator/che-code/latest&devfilePath=.devfile-vscode.yaml
       title: OpenShift Dev Spaces (VS Code)
       icon: web
 spec:
