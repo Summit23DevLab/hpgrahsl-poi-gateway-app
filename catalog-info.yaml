@@ -21,18 +21,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: "user:default/hpgrahsl"
-  system: workshop-system-hpgrahsl-dev
----
-apiVersion: backstage.io/v1alpha1
-kind: System
-metadata:
-  name: workshop-system-hpgrahsl-dev
-  tags:
-    - backstage
-    - janus-idp
-    - openshift
-    - workshop
-    - rh-summit
-spec:
-  owner: "user:default/hpgrahsl"
+  owner: rhdeveloper-workshop-authors
